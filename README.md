@@ -77,10 +77,7 @@ To run this project, you will need to generate API KEY from google services .
 
 
 
-  
-## 🚀 About Me
-I'm a Computer Science Student from IIT INDORE ,
-passionate for making cool and interesting apps
+ 
 
 ## MY GITHUB LINK -
 https://github.com/eeshmalvi
