@@ -6,7 +6,7 @@ around the Globe with varying magnitudes and geolocations on Google Map and also
 
 It explicitly marks major earthquakes (whose magnitude is equal to or more than 2 Richter scale (ML) ) with a RED CIRCLE, indicating most damage in the area .
 
-It provides Real-Time data from "earthquake.usgs.gov" which is updatred in every 1 hour.
+It provides Real-Time data from "earthquake.usgs.gov" which is updated in every 1 hour.
 
 
 # PERMISSIONS
